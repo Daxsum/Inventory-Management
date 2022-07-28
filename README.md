@@ -2,7 +2,7 @@
 
 Inventory management system using node js and mysql.
 
-## Install and Run!
+## Install and Run!!!
 
 ## First install all dependencies
 
