@@ -1,4 +1,4 @@
-# Warehouse Inventory Management.
+# Warehouse Inventory Management
 
 Inventory management system using node js and mysql.
 
